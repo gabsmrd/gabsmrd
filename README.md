@@ -2,14 +2,11 @@
 
 **`Desenvolvedora em Formação | Apaixonada por Tecnologia`**
 
-Olá! Eu sou a **Gabriela Miranda**, uma entusiasta da tecnologia que está construindo sua jornada como desenvolvedora.  
-Atualmente, estou focada em **Desenvolvimento de Sistemas** e sempre em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente.  
+Eu sou a **Gabriela Miranda**, uma estudante de tecnologia que está construindo sua jornada como desenvolvedora.  
+Atualmente, estou focada em **Desenvolvimento de Sistemas**. 
 
 Tenho experiência em **Programação de Sistemas** e **Assistência em Tecnologia da Informação**, com habilidades que abrangem tanto o **Frontend** (HTML, CSS, JavaScript) quanto o **Backend** (Python, Django, MySQL). Além disso, sou prática com ferramentas como **Git** e **GitHub**.  
-Ah, e meu inglês é intermediário! 🚀  
-
-Sou uma pessoa **comunicativa**, **responsável** e **criativa**, que adora aprender coisas novas e encarar desafios.  
-Além de programar, tenho um grande interesse por **segurança da informação** e amo transformar ideias em soluções reais.  
+E inglês intermediário!   
 
 ---
 
