@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriela Miranda
+#  Gabriela Miranda
 
 **`Desenvolvedora em Formação | Apaixonada por Tecnologia`**
 
