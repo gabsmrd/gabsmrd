@@ -9,7 +9,7 @@ Tenho experiência em **Programação de Sistemas** e **Assistência em Tecnolog
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 Aqui estão algumas das ferramentas e tecnologias que utilizo:
 
@@ -25,7 +25,7 @@ Aqui estão algumas das ferramentas e tecnologias que utilizo:
 
 ---
 
-### 📞 Como me Encontrar
+###  Como me Encontrar
 
 - ✉️ Email pessoal: [gabiismiranda00@gmail.com](mailto:gabiismiranda00@gmail.com)  
 - ✉️ Email acadêmico: [Gabriela48938486@edu.df.senac.br](mailto:Gabriela48938486@edu.df.senac.br)  
