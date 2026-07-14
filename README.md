@@ -4,7 +4,7 @@
 
 Eu sou a **Gabriela Miranda**,  estudante de tecnologia.  
 Atualmente, estou focada em **Desenvolvimento de Sistemas**. 
-Tenho experiência em **Programação de Sistemas** e **Assistência em Tecnologia da Informação**, com habilidades que abrangem **Frontend** (HTML, CSS, JavaScript) e **Backend** (Python, Django, MySQL). Prática com **Git** e **GitHub** e inglês nível B2.
+Tenho experiência em **Programação de Sistemas** e **Assistência em Tecnologia da Informação**, com habilidades que abrangem **Frontend** (HTML, CSS, JavaScript) e **Backend** (Python, Django, MySQL). Sou prática com **Git** e **GitHub** e inglês nível B2.
 
 ###  Linguagens e Tecnologias
 
