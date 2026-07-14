@@ -1,6 +1,6 @@
 #  Gabriela Miranda
 
-**`Desenvolvedora em Formação | Apaixonada por Tecnologia`**
+**`Desenvolvedora em Formação`**
 
 Eu sou a **Gabriela Miranda**,  estudante de tecnologia.  
 Atualmente, estou focada em **Desenvolvimento de Sistemas**. 
